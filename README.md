@@ -34,3 +34,15 @@
 
 * 카프카가 어떻게 돌아가는지 매우 직관적으로 확인할 수 있었습니다.
 * 카프카에 대한 흥미가 매우 높아졌습니다 ! 추후에는 다른 테크와 연결해서 프로젝트를 진행해볼 예정입니다. (Spark-Kafka, Tableau-Kafka 등등...)
+
+
+
+### 미니프로젝트에 대한 자세한 소개 링크
+
+[여기](https://github.com/bohyunshin/Kafka_bus_project/blob/master/ref/kafka%20및%20leaflet을%20활용한%20실시간%20시각화.pdf) 를 클릭해주세요.
+
+
+
+### 시연 영상에 대한 링크
+
+[여기](https://www.youtube.com/watch?v=W9j2dYmFsHw&feature=youtu.be)를 클릭해주세요. 
